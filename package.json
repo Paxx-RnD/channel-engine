@@ -38,7 +38,7 @@
     "nock": "^13.1.1",
     "node-fetch": "^2.6.1",
     "promise.allsettled": "^1.0.4",
-    "redis": "3.1.0",
+    "redis": "3.1.2",
     "request": ">=2.88.0",
     "restify": "10.0.0",
     "restify-errors": "^8.0.2",
