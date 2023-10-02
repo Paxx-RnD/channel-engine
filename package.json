@@ -36,7 +36,7 @@
     "debug": "^3.2.7",
     "memcache-client": "^0.10.1",
     "nock": "^13.1.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.7.0",
     "promise.allsettled": "^1.0.4",
     "redis": "3.1.0",
     "request": ">=2.88.0",
